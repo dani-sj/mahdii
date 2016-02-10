@@ -244,6 +244,7 @@ function create_config( )
     "version",
     "lock_join",
     "support"
+    "info_fa"
     },
     sudo_users = {177168187},--Sudo users
     disabled_channels = {},
