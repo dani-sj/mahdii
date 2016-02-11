@@ -240,12 +240,12 @@ function create_config( )
     "chatbot",
     "sodu",
     "isX",
+    "info_fa"
+    "info_en"
     "Debian_service",
     "version",
     "lock_join",
     "support"
-    "info_fa"
-    "info_en"
    },
     sudo_users = {177168187},--Sudo users
     disabled_channels = {},
