@@ -245,7 +245,8 @@ function create_config( )
     "lock_join",
     "support"
     "info_fa"
-    },
+    "info_en"
+   },
     sudo_users = {177168187},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
